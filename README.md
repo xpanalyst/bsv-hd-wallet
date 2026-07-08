@@ -2,7 +2,9 @@
 
 A lightweight Hierarchical Deterministic (HD) wallet implementation for **Bitcoin SV (BSV)** written in Python.
 
-> **Status:** Work in Progress
+<p align="center">
+  <img src="main_menu.png" alt="BSV HD Wallet" width="700">
+</p>
 
 ---
 
