@@ -60,7 +60,7 @@ Available options include:
 Clone the repository:
 
 ```bash
-git clone https://github.com/<your-username>/bsv-hd-wallet.git
+git clone https://github.com/xpanalyst/bsv-hd-wallet.git
 cd bsv-hd-wallet
 ```
 
