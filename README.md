@@ -50,6 +50,7 @@ Available options include:
 ## Requirements
 
 - Python 3.11+
+- bsv-sdk
 - SQLite (included with Python)
 
 ---
